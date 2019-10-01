@@ -1,0 +1,1 @@
+{'distanceToFood': -10.608110698692535, 'stop': 0.0, 'back': 17.887596441151473, 'carrying': 0.0, 'getFood': 0.0, 'towardToGhost': 0.0, 'reverse': -5.120089541629367, 'successorScore': 33.799511273486225, 'enemyOneStepToPacman': 2.8453693171749803, 'getCaplual': -5.091081441155061, 'eatGhost': -20.34059388815152}
